@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.586,F:\DevelopGS\Unit1.dfm=F:\DevelopGS\Konwersja Atestów\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.477,=F:\DevelopGS\Konwersja Atestów\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.822,F:\DevelopGS\Project1.cbproj=F:\DevelopGS\Konwersja Atestów\Konwersja Atestów.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.586,F:\DevelopGS\Unit1.h=F:\DevelopGS\Konwersja Atestów\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.943,F:\DevelopGS\Szablon aplikacji\Konwersja Atestów.cbproj=F:\DevelopGS\Szablon aplikacji\Szablon aplikacji.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.837,F:\DevelopGS\Konwersja Atestów\uGlobalDefsBase.cpp=F:\DevelopGS\Konwersja Atestów\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.744,=F:\DevelopGS\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.023,F:\DevelopGS\Project1PCH1.h=F:\DevelopGS\Konwersja Atestów\Headers.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.586,F:\DevelopGS\Unit1.cpp=F:\DevelopGS\Konwersja Atestów\Main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.837,F:\DevelopGS\Konwersja Atestów\uGlobalDefsBase.h=F:\DevelopGS\Konwersja Atestów\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.896,=F:\DevelopGS\Unit1.cpp</Transaction>
+    <Transaction>2023.03.15 16:31:33.047,F:\DevelopGS\SzablonAplikacji\SzablonAplikacji.cbproj=F:\DevelopGS\SzablonAplikacji\Szablon aplikacji.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

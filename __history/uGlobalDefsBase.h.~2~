@@ -1,0 +1,12 @@
+﻿#ifndef uGlobalDefsBaseH
+#define uGlobalDefsBaseH
+//---------------------------------------------------------------------------
+#define _DEBUGINFO_
+#if defined(_DEBUGINFO_)
+	#include "GsDebugClass.h"
+#endif
+
+extern const UnicodeString Global_cstrWorkDir;
+
+//---------------------------------------------------------------------------
+#endif

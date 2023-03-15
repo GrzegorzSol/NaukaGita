@@ -1,0 +1,5 @@
+﻿#pragma hdrstop
+
+#include "uGlobalDefsBase.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)

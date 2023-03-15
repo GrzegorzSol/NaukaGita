@@ -1,0 +1,10 @@
+﻿#ifndef uGlobalDefsBaseH
+#define uGlobalDefsBaseH
+//---------------------------------------------------------------------------
+#define _DEBUGINFO_
+#if defined(_DEBUGINFO_)
+	#include "GsDebugClass.h"
+#endif
+
+//---------------------------------------------------------------------------
+#endif
