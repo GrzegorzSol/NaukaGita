@@ -46,6 +46,7 @@ __fastcall TMainForm::TMainForm(TComponent* Owner)
   #if defined(_DEBUGINFO_)
 		GsDebugClass::WriteDebug(Format("Global_cstrWorkDir: %s", ARRAYOFCONST((Global_cstrWorkDir))));
 	#endif
+	this->MemoInfos->Lines->Add(Format("Global_cstrWorkDir: %s", ARRAYOFCONST((Global_cstrWorkDir))));
 }
 //---------------------------------------------------------------------------
 __fastcall TMainForm::~TMainForm()
