@@ -59,7 +59,7 @@ TopLine=1
 LeftCol=1
 Elisions=
 Bookmarks=
-EditViewName=Borland.FormDesignerView
+EditViewName=F:\DevelopGS\SzablonAplikacji\Main.cpp
 
 [Watches]
 Count=0
@@ -191,11 +191,6 @@ LRDockWidth=1750
 Dockable=1
 StayOnTop=0
 SplitPos=121
-
-[PropInspDesignerSelection]
-ArrangeBy=Name
-SelectedItem=AlignWithMargins,
-ExpandedItems=Anchors=0,BevelEdges=0,Constraints=0,Font=0,LiveBindings=0,"LiveBindings Designer=0",Margins=0
 
 [frmDesignPreview]
 PercentageSizes=1
@@ -513,11 +508,11 @@ State=0
 Left=0
 Top=0
 Width=1750
-Height=3546
+Height=7343
 MaxLeft=-1
 MaxTop=-1
 ClientWidth=1750
-ClientHeight=3546
+ClientHeight=7343
 TBDockHeight=3676
 LRDockWidth=1896
 Dockable=1
@@ -614,7 +609,7 @@ LRDockWidth=1896
 Dockable=1
 StayOnTop=0
 TabPosition=2
-ActiveTabID=StructureView
+ActiveTabID=ProjectManager
 TabDockClients=StructureView,ProjectManager,DataExplorerContainer,frmDesignPreview,ClassBrowserTool
 
 [DockSite3]

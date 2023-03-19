@@ -23,6 +23,7 @@ object MainForm: TMainForm
     Align = alBottom
     ShowCaption = False
     TabOrder = 0
+    ExplicitWidth = 785
     object Button1: TButton
       AlignWithMargins = True
       Left = 4
@@ -34,6 +35,8 @@ object MainForm: TMainForm
       Align = alLeft
       Caption = 'Button1'
       TabOrder = 0
+      ExplicitTop = 4
+      ExplicitHeight = 26
     end
     object Button2: TButton
       AlignWithMargins = True
@@ -46,6 +49,8 @@ object MainForm: TMainForm
       Align = alLeft
       Caption = 'Button2'
       TabOrder = 1
+      ExplicitTop = 4
+      ExplicitHeight = 26
     end
     object Button3: TButton
       AlignWithMargins = True
@@ -58,6 +63,8 @@ object MainForm: TMainForm
       Align = alLeft
       Caption = 'Button3'
       TabOrder = 2
+      ExplicitTop = 4
+      ExplicitHeight = 26
     end
     object Button4: TButton
       AlignWithMargins = True
@@ -70,6 +77,8 @@ object MainForm: TMainForm
       Align = alLeft
       Caption = 'Button4'
       TabOrder = 3
+      ExplicitTop = 4
+      ExplicitHeight = 26
     end
     object Button5: TButton
       AlignWithMargins = True
@@ -82,6 +91,8 @@ object MainForm: TMainForm
       Align = alLeft
       Caption = 'Button5'
       TabOrder = 4
+      ExplicitTop = 36
+      ExplicitHeight = 26
     end
     object Button6: TButton
       AlignWithMargins = True
@@ -94,20 +105,19 @@ object MainForm: TMainForm
       Align = alLeft
       Caption = 'Button6'
       TabOrder = 5
+      ExplicitLeft = 524
+      ExplicitTop = 4
+      ExplicitHeight = 26
     end
   end
   object MemoInfos: TMemo
-    AlignWithMargins = True
-    Left = 3
-    Top = 3
-    Width = 777
-    Height = 562
+    Left = 0
+    Top = 0
+    Width = 783
+    Height = 568
     Align = alClient
     ReadOnly = True
     TabOrder = 1
-    ExplicitLeft = 0
-    ExplicitTop = 0
-    ExplicitWidth = 783
-    ExplicitHeight = 568
+    ExplicitLeft = 1
   end
 end
