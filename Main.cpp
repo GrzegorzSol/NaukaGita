@@ -44,7 +44,7 @@ __fastcall TMainForm::TMainForm(TComponent* Owner)
 	//---
 	Application->OnException = this->_AppException; //Ustawienie obsługi błędów dla całej aplikacji
   #if defined(_DEBUGINFO_)
-		GsDebugClass::WriteDebug(Format("Global_cstrWorkDir: \"%s\"", ARRAYOFCONST((Global_cstrWorkDir))));
+		GsDebugClass::WriteDebug(Format("Global_cstrWorkDir: %s", ARRAYOFCONST((Global_cstrWorkDir))));
 	#endif
 	this->MemoInfos->Lines->Add(Format("Global_cstrWorkDir: %s", ARRAYOFCONST((Global_cstrWorkDir))));
 }
