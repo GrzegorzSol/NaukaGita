@@ -71,6 +71,8 @@ void __fastcall TMainForm::_AppException(TObject *Sender, Exception *pException)
 */
 {
   Application->ShowException(pException);
-	Application->Terminate(); //Zamknięcie aplikacji
+	this->OnCloseQuery = nullptr;
+	this->Close();
+	//Application->Terminate(); //Zamknięcie aplikacji
 }
 //---------------------------------------------------------------------------
